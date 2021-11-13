@@ -1,0 +1,1 @@
+sed -i -E '\|amazonlinux|s|=.*|=2|g' hosts.txt
